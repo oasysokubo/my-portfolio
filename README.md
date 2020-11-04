@@ -49,10 +49,3 @@ For example: `mycommand there are "some arguments" 'to pass'` would yield `there
 `toggleInput` disables or enables user input. `true` will block input and `false` will enable it. No argument will toggle it based on the current locked state.
 
 `addCmd` adds the command to the terminal. The first argument is a string and is the keyword for the user to execute the command. The second is a function that is called with a table of arguments the user passed with the command
-
-
-## Contributing
-
-You're welcome to submit pull requests if you want to, just try and keep code style consistent with the rest of the file.
-Try to submit bug fixes instead of major feature changes. If you feel like a feature change may make a good contribution to the main software then you are welcome to do so, however there is no guarantee that it will be merged. Any new commands must be 'general' commands and can be widely applicable to be merged with the main branch. Something like `tail` or an existing linux/unix command.
-I have been using camelCase for the most part, and K&R style for bracket positioning.
