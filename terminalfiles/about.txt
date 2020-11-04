@@ -1,0 +1,11 @@
+Welcome, I'm Oasys!<br><br>
+I love to create software and applicable projects to ease the world and make our society a better place. 
+I love to work on projects  with my friends and colleagues, and learn more everyday to improve what I can do.<br><br>
+
+As a Computer Science and Engineering graduate student at University of California, Santa Cruz, I am excited and eager to 
+learn and experiment in AI, Deep Learning/Machine Learning, and Data Science.<br><br>I boost my expertise in these areas working 
+on several independent projects and going through internships and mentorships throughout my years in University. <br><br>
+
+Please checkout my <a href="linkedin.com/in/oasysokubo">Linkedin</a> if you haven't already to see my experiences and expertise.<br><br>
+
+If you want to know more in depth my sentiments towards my experiences, check out 'experience_sentiment.txt'

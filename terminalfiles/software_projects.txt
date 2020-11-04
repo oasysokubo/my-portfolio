@@ -1,0 +1,29 @@
+Here are some software related projects that I've done so far!<br><br>
+
+<a href="https://github.com/datascienceucsc/dss-cruzhacks" target="_blank">Transparency Project</a> - Won 1st place out of 64 teams at CruzHacks, a Hackathon hosted by UC Santa Cruz, this project facilitates
+the understanding of our political process through interactive data visualizations. This website can compare different candidates through data that
+was web scraped extensively from various public sources. <br><br>
+
+<a href="datafly.online">Datafly</a> - An AutoML and data analytical software that facilitates the understanding of data through interpretable analysis. 
+A project started with a co-founder of Data Science Club, inspired by the potentials of data science and software technology. <br><br>
+
+<a href="https://github.com/oasysokubo/my-portfolio" target="_blank">Ubuntu Terminal Portfolio</a> - Created this portfolio site based on an ubuntu terminal from scratch in javascript.<br><br>
+
+<a href="https://github.com/oasysokubo/DeedBeef" target="_blank">DeedBeef</a> - A simulation of jobs performed by a set of processors, where there might be more jobs than processors therefore a queue must be made to wait until an open processor.<br><br>
+
+<a href="https://github.com/oasysokubo/VoiceAssistant" target="_blank">Speech Interpreter</a> - This project is a Voice Recognition and Synthesizer that allows for users to speak natural english and receive audible feedback on what the user said based on the current words in the grammar file (dictionary). 
+I made this project because I wanted to know how to aid individuals with disabilities<br><br>
+
+<a href="https://github.com/oasysokubo/DeepDrive" target="_blank">DeepDrive</a> - DeepDrive simulates a self-driving car that is entirely fuelled by a Convolutional Neural Network (CNN) using Tensorflow and Computer Vision using OpenCV. There are many processes that I have gone through to make this project go through succesfully.<br><br>
+
+<a href="https://github.com/oasysokubo/club-projects/tree/master/Flappy%20Birds" target="_blank">Flappy Birds</a> - I recreated the famous Flappy Birds with a little twist with Java.<br><br>
+
+<a href="https://github.com/oasysokubo/FaceNet" target="_blank">FaceNet</a> - Facial recognition and detection desktop software using OpenCV.<br><br>
+
+<a href="https://github.com/oasysokubo/cpu-emulator" target="_blank">CPU Emulator</a> - Experimental 8-Bit CPU emulator written in Java<br><br>
+
+<a href="https://github.com/oasysokubo/club-projects/tree/master/Tic%20Tac%20Toe%20(AI)" target="_blank">AI Tic Tac Toe</a> - I created a tic tac toe game that you can compete against an AI.<br><br>
+
+<a href="https://github.com/oasysokubo/club-projects/tree/master/Java%20Text/src">JavaText</a> - I created a custom text editor application<br><br>
+
+<a href="https://github.com/oasysokubo/club-projects/tree/master/Interactive%20Chatbot" target="_blank">UniBot</a> - Created a gui chatbot application to handle bash commands<br><br>

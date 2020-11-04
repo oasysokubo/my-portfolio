@@ -1,0 +1,11 @@
+Welcome to oasysokubo.com interactive web terminal<br/>
+<br/>
+&#9; * Documentation: <a href="https://github.com/oasysokubo/my-portfolio">https://github.com/oasysokubo/my-portfolio</a><br/>
+&#9; * Repository: <a href="https://github.com/oasysokubo/my-portfolio">https://github.com/oasysokubo/my-portfolio</a><br/>
+&#9; * User Agent: {USERAGENT}<br/>
+&#9; * Support: ookubo@ucsc.edu<br/>
+<br/>
+67 packages can be updated.<br/>
+11 updates are security updates.<br/>
+<br/>
+Last Login: {LASTLOGIN}

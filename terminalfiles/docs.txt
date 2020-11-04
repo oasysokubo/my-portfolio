@@ -1,0 +1,3 @@
+Useful links for myself that will help me: <br>
+
+<a href="https://github.com/oasysokubo/interviews">https://github.com/oasysokubo/interviews</a>
