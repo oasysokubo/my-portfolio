@@ -4,7 +4,7 @@ Here are some software related projects that I've done so far!<br><br>
 the understanding of our political process through interactive data visualizations. This website can compare different candidates through data that
 was web scraped extensively from various public sources. <br><br>
 
-<a href="datafly.online">Datafly</a> - An AutoML and data analytical software that facilitates the understanding of data through interpretable analysis. 
+<a href="https://datafly.online">Datafly</a> - An AutoML and data analytical software that facilitates the understanding of data through interpretable analysis. 
 A project started with a co-founder of Data Science Club, inspired by the potentials of data science and software technology. <br><br>
 
 <a href="https://github.com/oasysokubo/my-portfolio" target="_blank">Ubuntu Terminal Portfolio</a> - Created this portfolio site based on an ubuntu terminal from scratch in javascript.<br><br>

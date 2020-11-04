@@ -6,6 +6,6 @@ As a Computer Science and Engineering graduate student at University of Californ
 learn and experiment in AI, Deep Learning/Machine Learning, and Data Science.<br><br>I boost my expertise in these areas working 
 on several independent projects and going through internships and mentorships throughout my years in University. <br><br>
 
-Please checkout my <a href="linkedin.com/in/oasysokubo">Linkedin</a> if you haven't already to see my experiences and expertise.<br><br>
+Please checkout my <a href="https://www.linkedin.com/in/oasysokubo">Linkedin</a> if you haven't already to see my experiences and expertise.<br><br>
 
 If you want to know more in depth my sentiments towards my experiences, check out 'experience_sentiment.txt'

@@ -1,6 +1,6 @@
 Here are some machine learning & data science related projects that I've done!<br><br>
 
-<a href="datafly.online">Datafly</a> - An AutoML and data analytical software that facilitates the understanding of data through interpretable analysis. 
+<a href="https://datafly.online">Datafly</a> - An AutoML and data analytical software that facilitates the understanding of data through interpretable analysis. 
 A project started with a co-founder of Data Science Club, inspired by the potentials of data science and software technology. <br><br>
 
 <a href="https://github.com/oasysokubo/pacAI" target="_blank">pacAI</a> - Won 2nd place out of 21 teams to build an agent that competed against other teams in a capture the flag tournament<br><br>
