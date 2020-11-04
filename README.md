@@ -3,7 +3,7 @@
 This is a basic ubuntu based web terminal that serves as an interactive portfolio of mine.
 You are welcome to use it, I just ask for credit.
 
-If you would like a live version, visit my portfolio: https://yasfu.net/
+If you would like a live version, visit my portfolio: oasysokubo.com/
 
 It features a command system, as well as an "auto typer" that automatically types out and enters commands from code.
 This is useful for visitors that are not familiar with CLIs and broadens the amount of people who can navigate it.
