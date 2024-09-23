@@ -248,8 +248,8 @@ header {
 
 footer {
     display: flex;
-    justify-content: center;
-    padding: 100px 30px;
+    /* justify-content: center; */
+    /* padding: 100px 30px; */
     background-color:rgb(136, 136, 136);
 }
 
