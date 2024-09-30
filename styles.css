@@ -7,7 +7,6 @@ body {
   background-color: rgb(244, 241, 241);
   font-family: monospace;
   color:rgb(57, 57, 57);
-  overflow: hidden
 }
 
 h1 {
@@ -252,10 +251,7 @@ footer {
     /* justify-content: center; */
     /* padding: 100px 30px; */
     background-color:rgb(136, 136, 136);
-    /* margin-top: -65px; */
-    position: absolute;
-    bottom: 0;
-    width: 100%;
+    margin-top: -65px;
 }
 
 .dark footer {
